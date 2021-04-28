@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/dylan/Project_0/project_0/target/scala-2.13/hello-world_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dylan/Project_0/project_0/target/scala-2.13/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dylan/Project_0/project_0/target/scala-2.13/classes/com/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/JSON.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dylan/Project_0/project_0/target/scala-2.13/classes/com/JSON.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/CLI.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dylan/Project_0/project_0/target/scala-2.13/classes/com/CLI.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dylan/Project_0/project_0/target/scala-2.13/classes/com/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/SQL.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dylan/Project_0/project_0/target/scala-2.13/classes/com/SQL.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/SQL$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dylan/Project_0/project_0/target/scala-2.13/classes/com/SQL$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/JSON$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dylan/Project_0/project_0/target/scala-2.13/classes/com/JSON$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
